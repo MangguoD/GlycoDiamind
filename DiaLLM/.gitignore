@@ -1,0 +1,6 @@
+.diabetesPDiagLLMVenv
+data
+results
+.ipynb_checkpoints/
+src/train/DeepSeek-32B-LoRA/
+src/train/DeepSeek-32B-LoRA-SumDataset/
