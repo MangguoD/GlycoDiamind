@@ -1,0 +1,186 @@
+2025-04-09 23:39:57,029 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:40:00,252 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:40:10,656 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-09 23:40:29,491 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
+2025-04-09 23:42:43,792 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:42:47,586 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:43:02,486 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-09 23:43:21,776 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
+2025-04-09 23:46:57,739 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:47:00,950 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:47:11,401 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-09 23:47:30,286 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
+2025-04-09 23:48:50,951 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:48:54,752 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:49:07,384 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-09 23:49:27,136 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
+2025-04-09 23:51:17,411 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:51:20,622 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-09 23:51:30,996 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-09 23:51:49,568 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
+2025-04-10 00:00:14,025 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 00:00:17,237 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 00:00:27,522 - INFO - 输入文本：基本情况：年龄：56；性别：女；类型：黄标。身体数据：BMI：26.71；身高：155.5cm；体重：65.0kg；是否有高血压病史：没有；舒张压：93.0mmHg；收缩压：176.0mmHg；监测情况：第1次回访：监测内容：血糖；早餐后非空腹血糖为10.4mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。；第2次回访：监测内容：体征（身高、体重），血压，血糖；收缩压为176.0mmHg；舒张压为93.0mmHg；BMI为26.71；空腹空腹血糖为9.7mmol/L；辅助检查的空腹血糖为9.7mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重。。
+2025-04-10 00:00:46,163 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：9.7 mmol/L
+  - 波动范围：9.7 ~ 9.7 mmol/L
+  - 波动幅度：0 mmol/L
+- 餐后血糖波动情况：
+  - 平均值：10.4 mmol/L
+  - 波动范围：9.7 ~ 10.4 mmol/L
+  - 波动幅度：0.7 mmol/L
+- 症状：血糖控制不佳，饮食搭配不合理，运动量不达标，体重超重
+
+2. **血压管理**
+- 收缩压：未提及
+- 舒张压：未提及
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：26.71 kg/m²
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及

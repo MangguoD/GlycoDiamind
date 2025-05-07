@@ -1,0 +1,72 @@
+2025-04-10 19:42:56,840 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:43:00,417 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:43:11,720 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-10 19:45:00,273 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:45:03,574 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:45:14,703 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-10 19:48:55,943 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:48:59,877 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 19:49:12,547 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 19:49:12,563 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-04-10 19:49:13,085 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-10 20:01:54,230 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:01:57,560 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:02:07,996 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 20:02:08,009 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-10 20:02:08,550 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-04-10 20:02:09,349 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-04-10 20:10:42,944 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:10:46,132 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:10:56,684 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 20:10:56,698 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-10 20:13:56,019 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:13:59,226 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:14:09,782 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 20:14:09,797 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-10 20:37:38,071 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:37:41,249 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:37:51,936 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 20:37:51,952 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-04-10 20:48:45,819 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:48:49,058 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:49:57,330 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:50:00,522 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 20:50:11,079 - INFO - HTTP Request: GET http://localhost:6006/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 20:50:11,097 - INFO - HTTP Request: HEAD http://localhost:6006/ "HTTP/1.1 200 OK"
+2025-04-10 21:03:59,504 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 21:04:02,699 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 21:04:13,240 - INFO - HTTP Request: GET http://localhost:6006/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 21:04:13,256 - INFO - HTTP Request: HEAD http://localhost:6006/ "HTTP/1.1 200 OK"
+2025-04-10 21:10:27,000 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 21:10:30,168 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-04-10 21:10:40,569 - INFO - HTTP Request: GET http://localhost:6006/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-04-10 21:10:40,585 - INFO - HTTP Request: HEAD http://localhost:6006/ "HTTP/1.1 200 OK"
+2025-04-10 21:11:27,244 - INFO - 输入文本：基本情况：年龄：70；性别：女；类型：黄标。身体数据：BMI：21.48；身高：160.0cm；体重：55.0kg；是否有高血压病史：没有；舒张压：85.0mmHg；收缩压：135.0mmHg；监测情况：第1次回访：监测内容：体征（身高、体重）；BMI为23.44；辅助检查的餐后血糖为11.0mmol/L；辅助检查的空腹血糖为8.3mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制稳定，饮食控制；第2次回访：监测内容：血糖；空腹空腹血糖为8.3mmol/L；早餐后非空腹血糖为11.0mmol/L；辅助检查的餐后血糖为11.0mmol/L；辅助检查的空腹血糖为8.3mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制稳定，饮食控制；第3次回访：监测内容：体征（身高、体重），血压；收缩压为135.0mmHg；舒张压为85.0mmHg；BMI为21.48；辅助检查的餐后血糖为11.0mmol/L；辅助检查的空腹血糖为8.3mmol/L；无低血糖反应；糖尿病症状为0；本次监测描述为血糖控制稳定，饮食控制。
+2025-04-10 21:11:33,851 - INFO - 处理结果：1. **血糖控制**
+- 糖化血蛋白：未提及
+- 空腹血糖波动情况：
+  - 平均值：8.3mmol/L
+  - 波动范围：8.3mmol/L ~ 11.0mmol/L
+  - 波动幅度：2.7mmol/L
+- 餐后血糖波动情况：
+  - 平均值：11.0mmol/L
+  - 波动范围：11.0mmol/L ~ 11.0mmol/L
+  - 波动幅度：0mmol/L
+- 症状：0
+
+2. **血压管理**
+- 收缩压：135.0mmHg
+- 舒张压：85.0mmHg
+- 空腹血压：未提及
+- 餐后血压：未提及
+3. **其他并发症**
+- 眼底：未提及
+- 其他：未提及
+4. **依从性与监测问题**
+- 依从性：未提及
+- 用药情况：未提及
+5. **生活方式**
+- BMI：21.48
+- 饮食：未提及
+- 运动：未提及
+- 体重变化：未提及
